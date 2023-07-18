@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\WarehouseSetAddr;
 
 //auto generated code
 class WarehouseSetAddrRequest

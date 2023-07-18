@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\WarehouseSetAddrBatch;
 
 //auto generated code
 class WarehouseSetAddrBatchRequest

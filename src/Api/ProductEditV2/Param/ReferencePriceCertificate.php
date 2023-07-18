@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\ProductEditV2\Param;
 
 //auto generated code
 class ReferencePriceCertificate

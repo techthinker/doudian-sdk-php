@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\ProductDetail\Param;
 
 //auto generated code
 class ProductDetailParam

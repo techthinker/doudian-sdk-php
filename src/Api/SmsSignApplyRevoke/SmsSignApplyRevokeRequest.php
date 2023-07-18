@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\SmsSignApplyRevoke;
 
 //auto generated code
 class SmsSignApplyRevokeRequest

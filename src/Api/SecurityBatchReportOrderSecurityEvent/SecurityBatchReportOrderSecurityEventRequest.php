@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\SecurityBatchReportOrderSecurityEvent;
 
 //auto generated code
 class SecurityBatchReportOrderSecurityEventRequest

@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\ProductBatchCreatePrettifyPic;
 
 //auto generated code
 class ProductBatchCreatePrettifyPicRequest

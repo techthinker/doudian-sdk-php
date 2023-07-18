@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\SpuQueryBookNameByISBN;
 
 //auto generated code
 class SpuQueryBookNameByISBNRequest

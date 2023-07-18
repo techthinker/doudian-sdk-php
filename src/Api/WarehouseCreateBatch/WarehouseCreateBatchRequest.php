@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\WarehouseCreateBatch;
 
 //auto generated code
 class WarehouseCreateBatchRequest

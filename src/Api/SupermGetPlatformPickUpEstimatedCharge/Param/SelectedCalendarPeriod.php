@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\SupermGetPlatformPickUpEstimatedCharge\Param;
 
 //auto generated code
 class SelectedCalendarPeriod

@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\SmsSignApplyList\Param;
 
 //auto generated code
 class SmsSignApplyListParam

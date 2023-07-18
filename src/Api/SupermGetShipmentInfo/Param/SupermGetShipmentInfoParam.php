@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\SupermGetShipmentInfo\Param;
 
 //auto generated code
 class SupermGetShipmentInfoParam

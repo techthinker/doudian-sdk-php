@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\SpuBatchUploadImg;
 
 //auto generated code
 class SpuBatchUploadImgRequest

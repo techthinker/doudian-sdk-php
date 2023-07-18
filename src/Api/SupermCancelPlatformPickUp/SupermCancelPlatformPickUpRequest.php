@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\SupermCancelPlatformPickUp;
 
 //auto generated code
 class SupermCancelPlatformPickUpRequest

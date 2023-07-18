@@ -1,5 +1,5 @@
 <?php
-namespace DoudianSdkPhp\Api\OpenGetAuthInfo\;
+namespace DoudianSdkPhp\Api\OpenGetAuthInfo;
 
 //auto generated code
 class OpenGetAuthInfoRequest

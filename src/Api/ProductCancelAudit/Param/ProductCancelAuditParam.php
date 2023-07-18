@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\ProductCancelAudit\Param;
 
 //auto generated code
 class ProductCancelAuditParam

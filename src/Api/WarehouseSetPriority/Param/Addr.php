@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\WarehouseSetPriority\Param;
 
 //auto generated code
 class Addr

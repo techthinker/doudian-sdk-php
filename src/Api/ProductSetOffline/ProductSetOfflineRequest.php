@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\ProductSetOffline;
 
 //auto generated code
 class ProductSetOfflineRequest

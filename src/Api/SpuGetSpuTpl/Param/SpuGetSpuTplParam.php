@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\SpuGetSpuTpl\Param;
 
 //auto generated code
 class SpuGetSpuTplParam

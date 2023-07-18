@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\SmsTemplateApplyList\Param;
 
 //auto generated code
 class SmsTemplateApplyListParam

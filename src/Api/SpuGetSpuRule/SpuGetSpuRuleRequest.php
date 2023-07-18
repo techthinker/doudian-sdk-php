@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\SpuGetSpuRule;
 
 //auto generated code
 class SpuGetSpuRuleRequest

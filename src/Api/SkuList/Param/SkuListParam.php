@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\SkuList\Param;
 
 //auto generated code
 class SkuListParam

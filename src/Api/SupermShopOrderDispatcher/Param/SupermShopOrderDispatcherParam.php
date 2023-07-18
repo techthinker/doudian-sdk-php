@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\SupermShopOrderDispatcher\Param;
 
 //auto generated code
 class SupermShopOrderDispatcherParam

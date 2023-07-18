@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\ShopBrandList;
 
 //auto generated code
 class ShopBrandListRequest

@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\OrderReview\Param;
 
 //auto generated code
 class OrderReviewParam

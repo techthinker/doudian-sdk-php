@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\ProductEditV2;
 
 //auto generated code
 class ProductEditV2Request

@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\SkuSyncStockBatch\Param;
 
 //auto generated code
 class StockMap

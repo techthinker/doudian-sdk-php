@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\ShopGetShopCategory;
 
 //auto generated code
 class ShopGetShopCategoryRequest

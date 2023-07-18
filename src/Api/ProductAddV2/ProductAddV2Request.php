@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\ProductAddV2;
 
 //auto generated code
 class ProductAddV2Request

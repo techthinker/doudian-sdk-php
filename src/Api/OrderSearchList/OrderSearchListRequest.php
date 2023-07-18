@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\OrderSearchList;
 
 //auto generated code
 class OrderSearchListRequest

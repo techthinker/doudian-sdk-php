@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\WarehouseRemoveAddr\Param;
 
 //auto generated code
 class Addr

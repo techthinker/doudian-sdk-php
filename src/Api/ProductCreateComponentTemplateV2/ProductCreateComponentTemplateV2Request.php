@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\ProductCreateComponentTemplateV2;
 
 //auto generated code
 class ProductCreateComponentTemplateV2Request

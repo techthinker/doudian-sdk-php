@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\ProductSalesInheritPermission;
 
 //auto generated code
 class ProductSalesInheritPermissionRequest

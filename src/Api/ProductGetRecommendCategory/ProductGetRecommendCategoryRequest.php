@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\ProductGetRecommendCategory;
 
 //auto generated code
 class ProductGetRecommendCategoryRequest

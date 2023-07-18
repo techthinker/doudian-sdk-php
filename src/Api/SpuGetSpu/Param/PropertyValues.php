@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\SpuGetSpu\Param;
 
 //auto generated code
 class PropertyValues

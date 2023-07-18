@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\SpuAddShopSpu;
 
 //auto generated code
 class SpuAddShopSpuRequest

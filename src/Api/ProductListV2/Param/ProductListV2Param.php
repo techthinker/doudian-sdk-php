@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\ProductListV2\Param;
 
 //auto generated code
 class ProductListV2Param

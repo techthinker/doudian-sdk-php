@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\ProductDetail;
 
 //auto generated code
 class ProductDetailRequest

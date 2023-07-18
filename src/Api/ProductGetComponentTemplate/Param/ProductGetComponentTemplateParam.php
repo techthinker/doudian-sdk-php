@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\ProductGetComponentTemplate\Param;
 
 //auto generated code
 class ProductGetComponentTemplateParam

@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\SpuGetKeyPropertyByCid;
 
 //auto generated code
 class SpuGetKeyPropertyByCidRequest

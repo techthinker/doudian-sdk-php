@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\SmsSignDelete;
 
 //auto generated code
 class SmsSignDeleteRequest

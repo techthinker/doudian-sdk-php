@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\SecurityBatchReportOrderSecurityEvent\Param;
 
 //auto generated code
 class PurchaseProductInfoList

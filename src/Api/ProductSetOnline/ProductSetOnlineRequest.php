@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\ProductSetOnline;
 
 //auto generated code
 class ProductSetOnlineRequest

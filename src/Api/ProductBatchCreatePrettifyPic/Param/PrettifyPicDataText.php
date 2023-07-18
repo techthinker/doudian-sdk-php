@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\ProductBatchCreatePrettifyPic\Param;
 
 //auto generated code
 class PrettifyPicDataText

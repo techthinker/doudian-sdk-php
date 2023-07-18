@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\WarehouseCreateV2;
 
 //auto generated code
 class WarehouseCreateV2Request

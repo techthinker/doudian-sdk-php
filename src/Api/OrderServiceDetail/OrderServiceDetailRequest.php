@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\OrderServiceDetail;
 
 //auto generated code
 class OrderServiceDetailRequest

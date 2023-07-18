@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\SpuGetAuditInfo;
 
 //auto generated code
 class SpuGetAuditInfoRequest

@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\SpuCreateSpu\Param;
 
 //auto generated code
 class Content

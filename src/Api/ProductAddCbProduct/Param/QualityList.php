@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\ProductAddCbProduct\Param;
 
 //auto generated code
 class QualityList

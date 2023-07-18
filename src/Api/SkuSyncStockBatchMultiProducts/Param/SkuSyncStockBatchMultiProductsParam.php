@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\SkuSyncStockBatchMultiProducts\Param;
 
 //auto generated code
 class SkuSyncStockBatchMultiProductsParam

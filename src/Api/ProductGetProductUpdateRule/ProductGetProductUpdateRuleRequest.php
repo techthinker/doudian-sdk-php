@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\ProductGetProductUpdateRule;
 
 //auto generated code
 class ProductGetProductUpdateRuleRequest

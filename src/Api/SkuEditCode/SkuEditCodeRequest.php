@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\SkuEditCode;
 
 //auto generated code
 class SkuEditCodeRequest

@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\PromiseDeliveryList;
 
 //auto generated code
 class PromiseDeliveryListRequest

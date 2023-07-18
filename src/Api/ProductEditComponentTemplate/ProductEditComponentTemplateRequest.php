@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\ProductEditComponentTemplate;
 
 //auto generated code
 class ProductEditComponentTemplateRequest

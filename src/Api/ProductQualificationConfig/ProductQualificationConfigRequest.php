@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\ProductQualificationConfig;
 
 //auto generated code
 class ProductQualificationConfigRequest

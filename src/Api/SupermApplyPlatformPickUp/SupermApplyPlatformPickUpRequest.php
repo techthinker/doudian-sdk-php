@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\SupermApplyPlatformPickUp;
 
 //auto generated code
 class SupermApplyPlatformPickUpRequest

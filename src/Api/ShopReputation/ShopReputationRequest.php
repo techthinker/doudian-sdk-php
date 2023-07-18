@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\ShopReputation;
 
 //auto generated code
 class ShopReputationRequest

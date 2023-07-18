@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\SupermCreateVirtualMobile\Param;
 
 //auto generated code
 class SupermCreateVirtualMobileParam

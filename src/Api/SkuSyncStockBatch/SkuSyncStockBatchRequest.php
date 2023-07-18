@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\SkuSyncStockBatch;
 
 //auto generated code
 class SkuSyncStockBatchRequest

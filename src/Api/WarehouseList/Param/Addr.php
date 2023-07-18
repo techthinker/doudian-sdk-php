@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\WarehouseList\Param;
 
 //auto generated code
 class Addr

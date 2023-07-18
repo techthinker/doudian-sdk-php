@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\SmsSendResult\Param;
 
 //auto generated code
 class SmsSendResultParam

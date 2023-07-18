@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\ProductGetCatePropertyV2;
 
 //auto generated code
 class ProductGetCatePropertyV2Request

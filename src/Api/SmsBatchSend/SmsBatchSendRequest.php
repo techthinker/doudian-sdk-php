@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\SmsBatchSend;
 
 //auto generated code
 class SmsBatchSendRequest

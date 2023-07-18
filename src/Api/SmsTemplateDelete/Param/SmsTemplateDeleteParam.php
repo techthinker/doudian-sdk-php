@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\SmsTemplateDelete\Param;
 
 //auto generated code
 class SmsTemplateDeleteParam

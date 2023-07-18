@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\SupermSetStoreAutoCallRider\Param;
 
 //auto generated code
 class SupermSetStoreAutoCallRiderParam

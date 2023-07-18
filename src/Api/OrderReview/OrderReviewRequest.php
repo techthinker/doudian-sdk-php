@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\OrderReview;
 
 //auto generated code
 class OrderReviewRequest

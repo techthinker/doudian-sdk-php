@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\OrderUpdatePostAmount;
 
 //auto generated code
 class OrderUpdatePostAmountRequest

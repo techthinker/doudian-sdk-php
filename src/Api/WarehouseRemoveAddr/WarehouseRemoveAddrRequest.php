@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\WarehouseRemoveAddr;
 
 //auto generated code
 class WarehouseRemoveAddrRequest

@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\SkuStockNum;
 
 //auto generated code
 class SkuStockNumRequest

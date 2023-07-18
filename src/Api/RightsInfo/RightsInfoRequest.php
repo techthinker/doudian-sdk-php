@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\RightsInfo;
 
 //auto generated code
 class RightsInfoRequest

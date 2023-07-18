@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\OrderSearchByReceiver;
 
 //auto generated code
 class OrderSearchByReceiverRequest

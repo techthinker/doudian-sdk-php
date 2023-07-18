@@ -1,4 +1,6 @@
 <?php
+namespace DoudianSdkPhp\Api\ProductCategoryDimList\Param;
+
 
 //auto generated code
 class ProductCategoryDimListParam

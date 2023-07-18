@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\SupermGetDispatcherInfo\Param;
 
 //auto generated code
 class SupermGetDispatcherInfoParam

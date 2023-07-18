@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\ProductEditBuyerLimit\Param;
 
 //auto generated code
 class ProductEditBuyerLimitParam

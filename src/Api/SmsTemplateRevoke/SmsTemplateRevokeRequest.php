@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\SmsTemplateRevoke;
 
 //auto generated code
 class SmsTemplateRevokeRequest

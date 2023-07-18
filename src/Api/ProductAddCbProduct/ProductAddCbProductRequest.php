@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\ProductAddCbProduct;
 
 //auto generated code
 class ProductAddCbProductRequest

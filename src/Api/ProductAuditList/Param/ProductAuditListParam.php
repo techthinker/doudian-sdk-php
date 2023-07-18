@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\ProductAuditList\Param;
 
 //auto generated code
 class ProductAuditListParam

@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\PromiseSetSkuShipTime;
 
 //auto generated code
 class PromiseSetSkuShipTimeRequest

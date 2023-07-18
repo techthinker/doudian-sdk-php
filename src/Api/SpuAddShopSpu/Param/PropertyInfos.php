@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\SpuAddShopSpu\Param;
 
 //auto generated code
 class PropertyInfos

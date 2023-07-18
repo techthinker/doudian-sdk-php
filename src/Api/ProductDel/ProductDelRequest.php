@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\ProductDel;
 
 //auto generated code
 class ProductDelRequest

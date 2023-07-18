@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\SupermGetPlatformPickUpCalendar;
 
 //auto generated code
 class SupermGetPlatformPickUpCalendarRequest

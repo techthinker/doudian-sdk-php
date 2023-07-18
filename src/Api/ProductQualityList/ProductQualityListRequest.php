@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\ProductQualityList;
 
 //auto generated code
 class ProductQualityListRequest

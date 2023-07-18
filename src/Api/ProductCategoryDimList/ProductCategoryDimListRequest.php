@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\ProductCategoryDimList;
 
 //auto generated code
 class ProductCategoryDimListRequest

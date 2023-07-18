@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\WarehouseEdit;
 
 //auto generated code
 class WarehouseEditRequest

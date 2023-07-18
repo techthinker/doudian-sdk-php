@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\SupermGetPlatformPickUpEstimatedCharge;
 
 //auto generated code
 class SupermGetPlatformPickUpEstimatedChargeRequest

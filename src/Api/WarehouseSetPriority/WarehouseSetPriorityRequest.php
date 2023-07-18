@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\WarehouseSetPriority;
 
 //auto generated code
 class WarehouseSetPriorityRequest

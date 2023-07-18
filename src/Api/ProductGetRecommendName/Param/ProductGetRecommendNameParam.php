@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\ProductGetRecommendName\Param;
 
 //auto generated code
 class ProductGetRecommendNameParam

@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\ProductEditCbProduct\Param;
 
 //auto generated code
 class ProductEditCbProductParam

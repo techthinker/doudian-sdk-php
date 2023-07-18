@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\ProductSalesInheritSubmitList;
 
 //auto generated code
 class ProductSalesInheritSubmitListRequest

@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\SkuEditPrice\Param;
 
 //auto generated code
 class SkuEditPriceParam

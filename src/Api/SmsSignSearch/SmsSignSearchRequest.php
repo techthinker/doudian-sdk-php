@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\SmsSignSearch;
 
 //auto generated code
 class SmsSignSearchRequest

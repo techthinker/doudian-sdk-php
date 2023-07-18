@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\SkuDetail;
 
 //auto generated code
 class SkuDetailRequest
