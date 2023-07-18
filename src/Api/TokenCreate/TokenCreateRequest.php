@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\TokenCreate;
 
 //auto generated code
 class TokenCreateRequest

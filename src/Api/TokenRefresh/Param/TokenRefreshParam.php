@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\TokenRefresh\Param;
 
 //auto generated code
 class TokenRefreshParam

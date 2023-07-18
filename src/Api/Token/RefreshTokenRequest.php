@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\Token;
 
 class RefreshTokenRequest
 {
@@ -38,6 +39,6 @@ class RefreshTokenRequest
     public function __construct()
     {
         $this->config = \DoudianSdkPhp\Core\GlobalConfig::getGlobalConfig();
-        $this->param = new CreateTokenParam();
+        $this->param = new \DoudianSdkPhp\Api\Token\Param\CreateTokenParam();
     }
 }

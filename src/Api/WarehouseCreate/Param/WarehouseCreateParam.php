@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\WarehouseCreate\Param;
 
 //auto generated code
 class WarehouseCreateParam

@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\Token\Data;
 
 class CreateTokenData
 {

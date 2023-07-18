@@ -1,4 +1,5 @@
 <?php
+namespace DoudianSdkPhp\Api\TokenCreate\Param;
 
 //auto generated code
 class TokenCreateParam
