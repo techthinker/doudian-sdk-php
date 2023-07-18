@@ -1,0 +1,19 @@
+{
+    "name": "techthinker/doudian-sdk-php",
+    "version":"1.0",
+    "autoload": {
+        "psr-4": {
+            "DoudianSdkPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "techthinker",
+            "email": "techthinker@163.com"
+        }
+    ],
+    "license": "Apache-2.0",
+    "require": {
+        "php": ">=7.0.0"
+    }
+}
